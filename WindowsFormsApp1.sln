@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32602.291
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{5E83EED1-F04C-486C-9957-A43B5BB13281}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWhaticket", "WindowsFormsApp1\AppWhaticket.csproj", "{5E83EED1-F04C-486C-9957-A43B5BB13281}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
